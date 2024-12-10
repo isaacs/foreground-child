@@ -50,7 +50,7 @@
     "node": ">=14"
   },
   "dependencies": {
-    "cross-spawn": "^7.0.0",
+    "cross-spawn": "^7.0.5",
     "signal-exit": "^4.0.1"
   },
   "scripts": {
